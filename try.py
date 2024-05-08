@@ -1,1 +1,1 @@
-secret = "***REMOVED***"
+secret = "NOT secret"
